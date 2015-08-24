@@ -6,7 +6,6 @@ group: index
 ---
 
 <br /><br /><br />
-<center>
 <a href="http://hijos-de-puta.bandcamp.com">
   <h1>
     Pine et con sont souverains de la nuit.<br />
