@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Septentrion
-custom_js: about
+title: Hijos de Puta records
 tagline: performance
 group: index
 ---
