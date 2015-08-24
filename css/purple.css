@@ -1,0 +1,107 @@
+/***/
+/*
+/* Structure
+/*
+/***/
+
+div#head-container {
+    background: url('http://static.alwaysdata.com/images/alwaysdata_purple.png') center;
+}
+
+div#head-container-light {
+    background: url('http://static.alwaysdata.com/images/alwaysdata_light_purple.png') center;
+}
+
+/***/
+/*
+/* Fonts
+/*
+/***/
+
+h1, h2, h3, a {
+    color: #9e358e;
+}
+
+div#connect p {
+    color: #9e358e;
+}
+
+div#connect a {
+    color: #9e358e;
+}
+
+div.menu {
+    color: #9e358e;
+}
+
+div.menu a {
+    color: #9e358e;
+}
+
+/***/
+/*
+/* Lists
+/*
+/***/
+
+div.menu li.selected, li.selected a  {
+    color: #333;
+}
+
+/***/
+/*
+/* Tables
+/*
+/***/
+
+div.new-item a {
+    color: #9e358e;
+}
+
+table.alws thead tr th {
+    background: #9e358e none repeat scroll 0%;
+    color: #fff;
+}
+
+table.alws thead tr th a {
+    color: #fff;
+}
+
+table.alws tr.odd {
+    background-color:#fff;
+}
+
+table.alws tr.even {
+    background-color:#F5FFFA;
+}
+
+table.alws tr:hover {
+    background-color: #FFFFE0;
+}
+
+table.alws td {
+    border-bottom: 1px solid #CADBE5;
+    padding: 3px 5px;
+}
+
+/***/
+/*
+/* Forms
+/*
+/***/
+
+div#connect input.connect-field {
+    border: 1px solid #9e358e;
+}
+
+form#pack-choice select:focus {
+    background: #fff;
+}
+
+input.alws-bt {
+    color: #fff;
+    width: 135px;
+    height: 30px;
+    border: 0;
+    background: url('../images/bt_bg.png');
+}
