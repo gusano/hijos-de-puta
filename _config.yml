@@ -1,7 +1,6 @@
-# Site settings
 title: hijos-de-puta records
 email: elgusanorojo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hijos de Puta records
-baseurl: "/hijos-de-puta" # the subpath of your site, e.g. /blog/
-url: "http://hijos-de-puta.org" # the base hostname & protocol for your site
+baseurl: "//hijos-de-puta.org"
+url: "http://hijos-de-puta.org"
