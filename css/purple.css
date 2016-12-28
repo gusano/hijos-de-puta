@@ -4,6 +4,14 @@
 /*
 /***/
 
+p {
+  position: relative;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
 div#head-container {
     background: url('http://static.alwaysdata.com/images/alwaysdata_purple.png') center;
 }

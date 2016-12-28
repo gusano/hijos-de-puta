@@ -5,6 +5,12 @@ tagline: performance
 group: index
 ---
 
+
+<a href="http://hijos-de-puta.bandcamp.com">
+  <img src="img/getout.png" alt="get out" />
+</a>
+
+{% comment %}
 <br /><br /><br />
 <a href="http://hijos-de-puta.bandcamp.com">
   <h1>
@@ -26,3 +32,4 @@ group: index
     Hallucinant parce qu’il coule directement de la pensée.
   </h1>
 </a>
+{% endcomment %}
